@@ -1,5 +1,5 @@
 # Front-end using React framework
- A javascript library for buliding user Interfaces.
+ A javascript library for building user Interfaces.
  
  This Repository contains concepts used for developing 5  different projects.
  
